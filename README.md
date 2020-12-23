@@ -22,6 +22,8 @@ private static readonly ulong[] assemblyTimeStamps = new ulong[]
     ...
 ```
 
+The decompiled class was extracted from the following sample: `ce77d116a074dab7a22a0fd4f2c1ab475f16eec42e1ded3c0b0aa8211fe858d6`
+
 ## Acknowledgements
 The analysis and comments in the modified class are based on work conducted by the community and I. Specifically, I want to refer and thank to these works:
 - The entire community who worked on cracking these hashes - The cracked hashes can be found on [FireEye's repository](https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt)
